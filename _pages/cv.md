@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Resume"
 author_profile: true
 ---
 
