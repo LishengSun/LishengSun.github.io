@@ -1,4 +1,7 @@
 ---
+permalink: /cv/
+title: "Resume"
+author_profile: true
 ---
 
 **Lisheng Sun-Hosoya**\
