@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "Resume"
-    url: /files/Resume.pdf #/cv/
+    url: /cv/ #/cv/
     
   - title: "Guide"
     url: /markdown/
