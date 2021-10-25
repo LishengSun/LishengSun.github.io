@@ -66,7 +66,7 @@ Education
 
 ### Ph.D. Machine Learning. Université Paris Sud, Gif-sur-Yvette, France, 2019. 
 
-	[Meta-Learning as a Markov Decision Process.](https://hal.archives-ouvertes.fr/tel-02422144v2/document)
+[Meta-Learning as a Markov Decision Process.](https://hal.archives-ouvertes.fr/tel-02422144v2/document)\
 
 The success of Machine Learning applications in many fields relies
 heavily on well designed models / architectures, which is not only time
@@ -79,10 +79,9 @@ to solve it.
 
 ### Master. Astrophysics. Observatoire de Paris, Paris, France, 2011-2013 
 
-	The physical properties of local galaxies with high specific star
-    formation rate
+The physical properties of local galaxies with high specific star formation rate\
 
-	Prof. Matthew Lehnert and Prof. Wim van Driel, Institut d’Astrophysique de Paris, Paris, France.
+Prof. Matthew Lehnert and Prof. Wim van Driel, Institut d’Astrophysique de Paris, Paris, France.
 
 ### Bachelor. Physics. Université Paris 7, Paris, France, 2008-2010 
 
@@ -129,7 +128,7 @@ Publications
     results](https://hal.inria.fr/hal-01966962/document). Workshop
     AutoML 2018 @ ICML/IJCAI-ECAI, Stockholm, Sweden, 2018.
 
-Student Supervision {#student supervision .unnumbered}
+Student Supervision
 -------------------
 
 -   Chiheb Eddine NAJJAR, École des Ponts ParisTech, master’s thesis
@@ -221,15 +220,15 @@ I put some of my work online for public use.
 References
 -------------------
 
--   ****: Prof. Univ. Paris-Sud, President ChaLearn
+-   Prof. Isabelle Guyon: Prof. Univ. Paris-Sud, President ChaLearn.
 
--   ****: Senior Director, Global Research Engagement at Microsoft
-    Research
+-   Evelyne Viegas: Senior Director, Global Research Engagement at Microsoft
+    Research.
 
--   ****: Software Engineering Manager at Google
+-   André Elisseeff: Software Engineering Manager at Google.
 
--   ****: Prof. Univ. Aix-Marseille
+-   Cécile Capponi: Prof. Univ. Aix-Marseille.
 
--   ****: Directrice de recherche CNRS
+-   Michèle Sebag: Directrice de recherche CNRS.
 
--
+
