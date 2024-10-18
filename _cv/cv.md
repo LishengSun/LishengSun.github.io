@@ -5,17 +5,13 @@
 Datalab Groupe, Crédit Agricole S.A.\
 12 Place des États Unis\
 92120 Montrouge France\
-Email: [cecile829@gmail.com](cecile829@gmail.com)\
+Email: [cecile829@gmail.com](cecile829@gmail.com)
 
-*I am a Senior Data scientist at Credit Agricole S.A, where I work on
-[**[AutoML]{}**]{}, [**[Meta-Learning]{}**]{}, [**[transfer
-learning]{}**]{}, and their applications on banking AI systems to
-continuously reduce the learning resource. In my free time, I continue
-collaborating as a volunteer researcher with ChaLearn () on my Ph.D.
-subject: Formulating the Meta-Learning as a [**[Markov Decision
-Process]{}**]{} and using [**[Reinforcement Learning]{}**]{} techniques
-to solve it. I am currently looking for a new position where I can
-devote more time to related research fields.*
+*I am a Postdoctoral Researcher at [LISN, Université Paris-Saclay](https://www.lisn.upsaclay.fr/), since December 2022, with responsibilities in both research and teaching (chargée de recherche et d'enseignement). My current research focuses on **AutoML**, **Meta-Learning**, and **AI fairness**.
+
+Prior to my postdoc, I was a Senior Data Scientist and Research Lead at Crédit Agricole S.A., where I specialized in AutoML, Explainable AI (XAI), and AI fairness for the banking sector.
+
+I earned my Ph.D. in Machine Learning in December 2019 under the supervision of Prof. Isabelle Guyon and Prof. Michèle Sebag, focusing on AutoML and Meta-Learning.
 
 Professional experiences {#professional-experiences .unnumbered}
 ------------------------
