@@ -109,11 +109,11 @@ Teaching experiences
 
 -   Creation of an AI Challenge, M1 Université Paris-Saclay (2022–Present). Taught by Lisheng Sun-Hosoya, with contributions from Prof. Isabelle Guyon and Ihsan Ullah. [Link to class under repair following a cyberattack]
 
--   **Teaching Assistant **[Deep Learning in
+-   Teaching Assistant [Deep Learning in
     Practice](https://www.lri.fr/~gcharpia/deeppractice/). [Mini-projets
     on Machine learning](http://saclay.chalearn.org/) taught by Prof.
     Guillaume Charpia, Université Paris Sud, Gif-sur-Yvette, France. I
-    taught the Chapter **AutoML and AutoDL**.
+    taught the Chapter "AutoML and AutoDL".
 
 Invited Talks
 -------------
