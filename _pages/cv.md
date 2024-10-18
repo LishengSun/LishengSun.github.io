@@ -83,7 +83,7 @@ Selected Publications
 Student Supervision
 -------------------
 -   Paulo Couto De Resende Silva, Université Paris Saclay. M1 thesis
-    “LLM based AI-reviewer”, Université Paris Saclay.
+    “LLM based AI-reviewer”, Université Paris Saclay, 2024
 
 -   Chiheb Eddine NAJJAR, École des Ponts ParisTech, master’s thesis
     “Reinforcement Learning For Lead Qualification”, Crédit Agricole
