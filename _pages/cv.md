@@ -58,7 +58,9 @@ Education
 
 ### Ph.D. Machine Learning. Université Paris Sud, Gif-sur-Yvette, France, 2019. 
 
-[Meta-Learning as a Markov Decision Process.](https://hal.archives-ouvertes.fr/tel-02422144v2/document)
+[Meta-Learning as a Markov Decision Process.](https://hal.archives-ouvertes.fr/tel-02422144v2/document) \
+Supervisors: Prof. Isabelle Guyon and Michèle Sebag
+
 
 The success of machine learning applications across various fields depends heavily on the design of effective model architectures, a process that is both time-consuming and requires substantial domain expertise. My PhD thesis focuses on developing a methodology to automate this process, known as AutoML. In particular, we explore the meta-learning aspect of AutoML and formulate the problem as a Markov Decision Process (MDP). We propose several solutions to this problem, including approaches based on collaborative filtering and reinforcement learning.
 
@@ -66,7 +68,7 @@ The success of machine learning applications across various fields depends heavi
 
 The physical properties of local galaxies with high specific star formation rate
 
-Prof. Matthew Lehnert and Prof. Wim van Driel, Institut d’Astrophysique de Paris, Paris, France.
+Directed by Prof. Matthew Lehnert and Prof. Wim van Driel, Institut d’Astrophysique de Paris, Paris, France.
 
 ### Bachelor. Physics. Université Paris 7, Paris, France, 2008-2010 
 
