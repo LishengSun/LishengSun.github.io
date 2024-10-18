@@ -164,7 +164,9 @@ I put some of my work online for public use.
 References
 -------------------
 
--   Prof. Isabelle Guyon: Prof. Univ. Paris-Sud, President ChaLearn.
+-   Prof. Isabelle Guyon: Research Director, DeepMind.
+
+-   Anne-Catherine Letournel: Research Engineer, LISN, Université Paris-Saclay.
 
 -   Evelyne Viegas: Senior Director, Global Research Engagement at Microsoft
     Research.
