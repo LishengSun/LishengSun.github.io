@@ -12,7 +12,13 @@ Currently working across both academia and industry, I am involved in AI-related
 - Université Paris-Saclay and DATAIA Institute, contributing to the design of data challenges based on academic questions and industrial real-world problems, and teaching the creation of AI challenges at the Master’s level,
 - and with Artelys, Paris on optimization and applied machine learning problems.
 
-Previously postdoctoral researcher and chargée de recherche et d'enseignement at LISN, Université Paris-Saclay, I specialize in AutoML, Meta-Learning, and AI Fairness. With experience spanning both industry and academia, I am passionate about advancing machine learning technologies to solve real-world problems efficiently and ethically. My work focuses on automating machine learning processes, enhancing learning efficiency, and ensuring fairness in AI systems. With management experience in R&D teams across both sectors, I am always open to exploring new opportunities that align with my expertise and leadership skills. Feel free to [contact me](mailto:sun-hosoya@chalearn.org) if you'd like to connect.
+Previously, I was a postdoctoral researcher and lecturer at LISN.
+
+My research interests include AutoML, Meta-Learning, and AI Fairness, with a focus on improving learning efficiency and developing reliable and interpretable machine learning systems.
+
+I have experience working in both academic and industrial environments, and I am particularly interested in problems where theoretical methods can be applied to real-world settings.
+
+Feel free to [contact me](mailto:sun-hosoya@chalearn.org) if you'd like to connect.
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
