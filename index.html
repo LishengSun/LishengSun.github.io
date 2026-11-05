@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lisheng Sun-Hosoya</title>
+<meta name="description" content="Sometimes we teach. Sometimes we build. Sometimes we write. Sometimes I optimize. Lisheng Sun-Hosoya, at the intersection of research and practice.">
+<meta name="theme-color" content="#f8f6f1">
+<style>
+:root{color-scheme:light;--paper:#f8f6f1;--ink:#34372f;--muted:#777b70;--line:#d9d9cd}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,'Times New Roman',serif}button,a{-webkit-tap-highlight-color:transparent}button{color:inherit;font:inherit}main{min-height:100svh;display:grid;place-items:center;overflow:hidden}.constellation{width:min(100%,1100px);height:760px;max-height:100svh;min-height:580px;position:relative;display:grid;place-items:center}.name{position:relative;z-index:2;border:0;background:none;cursor:pointer;padding:24px;font-size:clamp(26px,4vw,46px);font-weight:400;letter-spacing:-1.4px;line-height:1.2}.name:after{content:'';display:block;margin:14px auto 0;width:28px;height:1px;background:#9ba58f;transition:width .5s}.name:hover:after{width:72px}.name:focus-visible,.bubble:focus-visible,a:focus-visible,.close:focus-visible{outline:2px solid #77856a;outline-offset:8px}.bubble{position:absolute;width:236px;height:158px;border:1px solid var(--line);border-radius:50%;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:12px;text-decoration:none;background:var(--paper);font:inherit;color:var(--ink);cursor:pointer;opacity:0;visibility:hidden;transform:translateY(20px) scale(.9);transition:opacity .6s,transform .7s cubic-bezier(.2,.8,.2,1),background .3s,border-color .3s,visibility .6s}.bubble span{font-size:21px;letter-spacing:-.4px}.bubble small{font:10px/1.4 Arial,sans-serif;letter-spacing:1.7px;text-transform:uppercase;color:var(--muted)}.bubble:hover{background:#ecefe5;border-color:#a6b299;transform:translateY(-5px)!important}.teach{top:13%;left:15%;transition-delay:0s}.build{top:16%;right:12%;transition-delay:.07s;border-radius:47% 53% 49% 51%}.write{bottom:13%;left:12%;transition-delay:.14s;border-radius:53% 47% 50% 50%}.optimize{bottom:10%;right:16%;transition-delay:.21s;border-radius:48% 52% 46% 54%}.open .bubble{opacity:1;visibility:visible;transform:translateY(0) scale(1)}.footnote{position:absolute;bottom:22px;left:0;right:0;text-align:center;font:10px Arial,sans-serif;letter-spacing:2px;text-transform:uppercase;color:var(--muted);opacity:0;transition:opacity .6s}.open .footnote{opacity:1}.footnote a{color:inherit;text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:4px}.footnote span{margin:0 16px}.threads{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:0;transition:opacity 1s}.open .threads{opacity:.65}.threads path{stroke:var(--line);stroke-width:1;fill:none;stroke-dasharray:2 7}dialog{background:var(--paper);color:var(--ink);border:1px solid var(--line);padding:58px;max-width:600px;width:calc(100% - 32px);border-radius:8px;max-height:85svh}dialog::backdrop{background:#34372f44;backdrop-filter:blur(5px)}.close{position:absolute;right:20px;top:16px;border:0;background:none;font:28px Georgia;cursor:pointer}.eyebrow{font:10px Arial,sans-serif;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}h2{font-size:34px;font-weight:400;letter-spacing:-1px;margin:20px 0 24px}dialog p{font-size:17px;line-height:1.7;color:#62675d}dialog a{color:var(--ink);text-underline-offset:5px}.entry{border-top:1px solid var(--line);padding:19px 0}.entry a{font-size:20px}.entry p{font-size:15px;margin-bottom:0}noscript p{text-align:center;padding:30px}
+@media(max-width:650px){.constellation{height:820px;max-height:none;min-height:100svh;padding:180px 0 290px}.name{font-size:29px;letter-spacing:-.9px}.bubble{width:156px;height:120px;gap:9px}.bubble span{font-size:17px}.bubble small{font-size:8px;letter-spacing:1px}.teach{top:8%;left:6%}.build{top:12%;right:5%}.write{bottom:21%;left:5%}.optimize{bottom:16%;right:5%}.footnote{bottom:60px;font-size:9px}.threads{display:none}dialog{padding:44px 28px}.closed .constellation{height:100svh;min-height:0;padding:0}.closed main{height:100svh}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important;animation:none!important}}
+.identity{text-align:center;position:relative;z-index:2}.intro{position:absolute;left:0;right:0;margin:0;top:calc(100% - 6px);font:12px/1.9 Arial,sans-serif;color:var(--muted);opacity:0;visibility:hidden;transition:opacity .6s,visibility .6s}.intro a{color:inherit;text-decoration:none}.intro a:hover{text-decoration:underline;text-underline-offset:4px}.open .intro{opacity:1;visibility:visible}@media(max-width:650px){.intro{font-size:10px}}
+.footer-link{border:0;border-bottom:1px solid var(--line);padding:0 0 4px;background:none;font:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit;cursor:pointer}.footer-link:focus-visible,summary:focus-visible{outline:2px solid #77856a;outline-offset:6px}.supervision{margin-top:20px;border-top:1px solid var(--line);padding-top:22px}.supervision summary{cursor:pointer;font-size:20px}.students{list-style:none;padding:0;margin:20px 0 0}.students li{padding:14px 0;border-top:1px solid var(--line)}.students strong{font-size:17px;font-weight:400}.students p{font-size:14px;line-height:1.6;margin:6px 0 0}.students small{display:block;font:11px/1.6 Arial,sans-serif;color:var(--muted);margin-top:6px}
+</style>
+</head>
+<body class="closed">
+<main><section class="constellation" aria-label="Explore my work">
+<svg class="threads" viewBox="0 0 1100 760" preserveAspectRatio="none" aria-hidden="true"><path d="M500 352 Q400 240 285 210 M600 352 Q735 240 855 235 M500 395 Q380 490 250 580 M600 395 Q720 530 805 610"/></svg>
+<div class="identity"><h1 style="margin:0;font-weight:400"><button class="name" id="name" aria-expanded="false" aria-controls="teach build write optimize" aria-label="Lisheng Sun-Hosoya. Click to explore my work.">Lisheng Sun-Hosoya</button></h1><p class="intro" inert><a href="https://theses.fr/2019SACLS588">PhD · 2019 · Université Paris-Saclay ↗</a></p></div>
+<button class="bubble teach" id="teach" data-dialog="teaching" tabindex="-1"><span>sometimes we teach</span><small>Université Paris-Saclay</small></button>
+<a class="bubble build" id="build" href="https://saclay.chalearn.org/" tabindex="-1"><span>sometimes we build</span><small>AI challenges & projects ↗</small></a>
+<a class="bubble write" id="write" href="https://scholar.google.com/citations?user=_8h_NEcAAAAJ&hl=en" tabindex="-1"><span>sometimes we write</span><small>Papers & ideas ↗</small></a>
+<button class="bubble optimize" id="optimize" data-dialog="consulting" tabindex="-1"><span>sometimes I optimize</span><small>Research meets practice</small></button>
+<footer class="footnote" inert><a href="mailto:sun-hosoya@chalearn.org">say hello</a><span>·</span><button class="footer-link" data-dialog="opportunities">student opportunities</button></footer>
+</section></main>
+<dialog id="teaching" aria-labelledby="teaching-title"><button class="close" aria-label="Close">×</button><h2 id="teaching-title">Université Paris-Saclay</h2><div class="entry"><a href="https://ai-master.lisn.upsaclay.fr/classes/">M1 Creation of an AI challenge ↗</a></div><div class="entry"><a href="https://guyon.chalearn.org/teaching/m2-ai-opt-7">M2 Advanced Optimisation and AutoML ↗</a></div><details class="supervision"><summary>Students supervised</summary><ul class="students">
+<li><strong>Oualid Chabane</strong><p>Aircraft Wall Density prediction</p><small>ONERA · 2026</small></li>
+<li><strong>Paulo Couto De Resende Silva</strong><p>LLM-based AI reviewer</p><small>M1 thesis · Université Paris-Saclay · 2024</small></li>
+<li><strong>Chiheb Eddine Najjar</strong><p>Reinforcement Learning for Lead Qualification</p><small>Master’s thesis · École des Ponts ParisTech · Crédit Agricole S.A. · 2021</small></li>
+<li><strong>Manh Hung Nguyen</strong><p>RL-based Meta-learning from Learning Curves</p><small>Master’s thesis · CentraleSupélec · Université Paris-Sud · 2021<br>Co-supervised with Isabelle Guyon</small></li>
+<li><strong>Achraf Azize</strong><p>Interpretability and AutoML</p><small>Master’s thesis · École Polytechnique · Crédit Agricole S.A. · 2020</small></li>
+<li><strong>Nathan Grinsztajn</strong><p>AutoML and REVEAL games</p><small>Master’s thesis · École Polytechnique · Université Paris-Sud · 2019<br>Co-supervised with Isabelle Guyon</small></li>
+</ul></details></dialog>
+<dialog id="opportunities" aria-labelledby="opportunities-title"><button class="close" aria-label="Close">×</button><div class="eyebrow">Student opportunities</div><h2 id="opportunities-title">Projects to explore.</h2><div id="opportunity-posts" aria-live="polite"></div><p id="opportunity-empty">Internship topics and student projects will be posted here as they become available.</p><div class="entry"><a href="mailto:sun-hosoya@chalearn.org?subject=Student%20internship%20enquiry">Get in touch ↗</a></div></dialog>
+<dialog id="consulting" aria-labelledby="consulting-title"><button class="close" aria-label="Close">×</button><div class="eyebrow">Sometimes I optimize</div><h2 id="consulting-title">Some questions live<br>outside the lab.</h2><p>I work alongside industry teams on research and development, exploring how optimization and machine learning can turn open questions into practical solutions.</p><p>Often, it begins with a conversation.</p><div class="entry"><a href="mailto:sun-hosoya@chalearn.org">Compare notes ↗</a></div></dialog>
+<noscript><p><a href="https://ai-master.lisn.upsaclay.fr/classes/">Teaching</a> · <a href="https://saclay.chalearn.org/">Projects</a> · <a href="https://scholar.google.com/citations?user=_8h_NEcAAAAJ">Publications</a> · <a href="mailto:sun-hosoya@chalearn.org">Contact</a></p></noscript>
+<script>
+// Add new opportunities here, newest first, then republish this file.
+// Each post has: title, date (YYYY-MM-DD), organization, description,
+// optional deadline (YYYY-MM-DD), and optional url (https://... or mailto:...).
+// Remove closed posts from this list when they should no longer be displayed.
+const opportunities = [];
+const postContainer = document.getElementById('opportunity-posts');
+for (const post of opportunities) {
+  const article = document.createElement('article');
+  article.className = 'entry';
+  const meta = document.createElement('div');
+  meta.className = 'eyebrow';
+  meta.textContent = [post.date, post.organization].filter(Boolean).join(' · ');
+  const heading = document.createElement('h3');
+  heading.textContent = post.title;
+  const description = document.createElement('p');
+  description.textContent = post.description;
+  article.append(meta, heading, description);
+  if (post.deadline) {
+    const deadline = document.createElement('p');
+    deadline.textContent = 'Apply by ' + post.deadline;
+    article.append(deadline);
+  }
+  if (post.url && /^(https:\/\/|mailto:)/i.test(post.url)) {
+    const link = document.createElement('a');
+    link.href = post.url;
+    link.textContent = 'Details & application ↗';
+    article.append(link);
+  }
+  postContainer.append(article);
+}
+document.getElementById('opportunity-empty').hidden = opportunities.length > 0;
+const nameButton=document.getElementById('name');
+function expand(open){document.body.classList.toggle('open',open);document.body.classList.toggle('closed',!open);nameButton.setAttribute('aria-expanded',String(open));document.querySelectorAll('.bubble').forEach(el=>el.tabIndex=open?0:-1);document.querySelector('.footnote').inert=!open;document.querySelector('.intro').inert=!open;}
+nameButton.addEventListener('click',()=>expand(nameButton.getAttribute('aria-expanded')!=='true'));
+document.querySelectorAll('[data-dialog]').forEach(button=>button.addEventListener('click',()=>document.getElementById(button.dataset.dialog).showModal()));
+document.querySelectorAll('dialog').forEach(dialog=>{dialog.querySelector('.close').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!document.querySelector('dialog[open]')){expand(false);nameButton.focus();}});
+</script>
+</body></html>
